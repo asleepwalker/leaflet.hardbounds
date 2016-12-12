@@ -1,0 +1,29 @@
+.wrapper {
+	margin: 0 auto;
+	max-width: 600px;
+	padding: 0 50px;
+}
+
+#map {
+	height: 400px;
+}
+
+.controls {
+	margin: 15px 0;
+}
+
+.controls .state {
+	font-size: 90%;
+}
+
+.controls #state {
+	font-weight: bold;
+}
+
+a.repo {
+	text-decoration: none;
+}
+
+a.repo:hover {
+	text-decoration: underline;
+}
