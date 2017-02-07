@@ -1,4 +1,4 @@
-#Leaflet.HardBounds
+#Leaflet.HardBounds [![Dependency Status](https://gemnasium.com/badges/github.com/asleepwalker/leaflet.hardbounds.svg)](https://gemnasium.com/github.com/asleepwalker/leaflet.hardbounds)
 
 [Leaflet](http://leafletjs.com/) plugin to prevent panning outside of map bounds.
 
